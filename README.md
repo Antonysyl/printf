@@ -1,5 +1,7 @@
 # printf
-A project on printf function.  written by ALX team members Antonysyl and Wealthwissy 
+A project on printf function.  written by ALX team members Anthony Chuka-Umeora  and Ebube Onyeme
+Github Profiles: https://github.com/Antonysyl
+                 https://github.com/wealthwissy
 
 THIS PROJECT WAS GIVEN TO US BY ALX TO FURTHER IMPROVE OUR SKILLS AND CON-VERSATITLITY WITH THE C PROGRAMMING LANGUAGE (PRINTF) IN PREPARATION TO US BECOMING GOOD SOFTWARE ENGINEERS.
 
