@@ -6,7 +6,7 @@
  * Return: 0
  */
 {
-int _printf(const char *format, ...);
+int _printf(const char *format, ...)
 int main(void)
 char form = 'f';
 char forms[] = "format";
