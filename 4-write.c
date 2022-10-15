@@ -1,10 +1,12 @@
-#include <unistd.h>
-#include <stdio.h>
+#include "main.h"
+
 /**
- * main - write
- * Description: 
- * Return: nothing
+ * print_buf - prints buffer
+ * @buf: buffer pointer
+ * @nbuf: number of bytes to print
+ * Return: number of bytes printed.
  */
- {
- write (1, "1024", 4);
- }
+int print_buf(char *buf, unsigned int nbuf)
+{
+	return (write(1, buf, nbuf));
+}
