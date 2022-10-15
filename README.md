@@ -3,7 +3,7 @@ A project on printf function.  written by ALX team members Antonysyl and Wealthw
 
 THIS PROJECT WAS GIVEN TO US BY ALX TO FURTHER IMPROVE OUR SKILLS AND CON-VERSATITLITY WITH THE C PROGRAMMING LANGUAGE (PRINTF) IN PREPARATION TO US BECOMING GOOD SOFTWARE ENGINEERS.
 
-BELOW IS ALL THE PROJECTS WE WERE TASKED TO DO;
+BELOW ARE ALL THE PROJECTS WE WERE TASKED TO DO;
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 
